@@ -7,4 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-var newId = 
+var newID = oldID + 1000
