@@ -13,4 +13,4 @@ var ageIsValid = Number.isInteger()
 
 var randomNumber = Math.random(0,20)
 
-var randomInteger = Math.round(randomNumber);
+var randomInteger = Math.floor(randomNumber);
